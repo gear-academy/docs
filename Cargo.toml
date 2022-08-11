@@ -16,4 +16,5 @@ members = [
     "dapps/ping",
     "dapps/staking",
     "dapps/supply-chain",
+    "dapps/nft-pixelboard",
 ]
