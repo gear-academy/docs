@@ -15,6 +15,7 @@ non-fungible-token \
 ping \
 staking \
 supply-chain \
+nft-pixelboard \
 "
 
 set -e
