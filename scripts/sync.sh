@@ -1,21 +1,38 @@
 #!/bin/sh
 
 REPOS="\
+compound \
 concert \
+crowdsale-ico \
 dao \
 dao-light \
+dex \
 dutch-auction \
 escrow \
 feeds \
+fomo3D \
 fungible-token \
 gear-lib \
+identity \
 lottery \
+multisig-wallet \
 multitoken \
+nft-pixelboard \
 non-fungible-token \
 ping \
+RMRK \
+rock-paper-scissors \
 staking \
 supply-chain \
-nft-pixelboard \
+swap \
+"
+
+WORKSPACES="\
+dex \
+feeds \
+gear-lib \
+non-fungible-token \
+RMRK \
 "
 
 set -e
@@ -35,5 +52,9 @@ do
     fi
 done
 
-rm feeds/Cargo.toml
-rm non-fungible-token/Cargo.toml
+for WORKSPACE in $WORKSPACES
+do
+    rm -f "$WORKSPACE/Cargo.toml"
+done
+
+find . -name build.rs -type f -exec rm -v {} \;
