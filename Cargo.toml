@@ -17,7 +17,7 @@ members = [
     "dapps/gear-lib/derive",
     "dapps/gear-lib/lib",
     # "dapps/identity",
-    "dapps/lottery",
+    "dapps/game-of-chance",
     "dapps/multisig-wallet",
     "dapps/multitoken",
     "dapps/nft-pixelboard",
