@@ -1,7 +1,6 @@
 #!/bin/sh
 
 REPOS="\
-compound \
 concert \
 crowdsale-ico \
 dao \
@@ -14,7 +13,7 @@ fomo3D \
 fungible-token \
 gear-lib \
 identity \
-lottery \
+game-of-chance \
 multisig-wallet \
 multitoken \
 nft-pixelboard \
