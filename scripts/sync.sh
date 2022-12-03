@@ -30,7 +30,6 @@ WORKSPACES="\
 dex \
 feeds \
 gear-lib \
-non-fungible-token \
 RMRK \
 "
 
