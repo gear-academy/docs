@@ -1,38 +1,28 @@
 #!/bin/sh
 
 REPOS="\
-compound \
 concert \
-crowdsale-ico \
+crowdsale \
 dao \
 dao-light \
 dex \
-dutch-auction \
 escrow \
-feeds \
-fomo3D \
 fungible-token \
+game-of-chance \
 gear-lib \
 identity \
-lottery \
 multisig-wallet \
 multitoken \
-nft-pixelboard \
 non-fungible-token \
-ping \
-RMRK \
-rock-paper-scissors \
+on-chain-nft \
+sharded-fungible-token \
 staking \
-supply-chain \
-swap \
 "
 
 WORKSPACES="\
 dex \
-feeds \
 gear-lib \
-non-fungible-token \
-RMRK \
+sharded-fungible-token \
 "
 
 set -e
@@ -58,3 +48,4 @@ do
 done
 
 find . -name build.rs -type f -exec rm -v {} \;
+find . -name Cargo.lock -type f -exec rm -v {} \;
