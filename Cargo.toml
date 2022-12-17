@@ -15,10 +15,15 @@ members = [
     "dapps/identity",
     "dapps/multisig-wallet",
     "dapps/multitoken",
-    "dapps/non-fungible-token",
+    "dapps/non-fungible-token/nft",
+    "dapps/non-fungible-token/rentable-nft",
     "dapps/on-chain-nft",
     "dapps/sharded-fungible-token/ft-logic",
     "dapps/sharded-fungible-token/ft-main",
     "dapps/sharded-fungible-token/ft-storage",
     "dapps/staking",
 ]
+
+[patch.crates-io]
+sp-core = { git = "https://github.com/gear-tech/substrate.git", branch = "gear-stable" }
+sp-runtime = { git = "https://github.com/gear-tech/substrate.git", branch = "gear-stable" }

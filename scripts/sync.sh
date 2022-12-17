@@ -22,6 +22,7 @@ staking \
 WORKSPACES="\
 dex \
 gear-lib \
+non-fungible-token \
 sharded-fungible-token \
 "
 
