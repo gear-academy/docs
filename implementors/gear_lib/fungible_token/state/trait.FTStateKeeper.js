@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"dex_pair":[["impl <a class=\"trait\" href=\"gear_lib/fungible_token/state/trait.FTStateKeeper.html\" title=\"trait gear_lib::fungible_token::state::FTStateKeeper\">FTStateKeeper</a> for <a class=\"struct\" href=\"dex_pair/struct.Pair.html\" title=\"struct dex_pair::Pair\">Pair</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

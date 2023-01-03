@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["init",""],["meta_state",""]],"mod":[["io",""],["state",""]],"struct":[["MultisigWallet",""],["Transaction",""]]};

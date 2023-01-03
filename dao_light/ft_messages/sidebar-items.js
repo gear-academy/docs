@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["approve_tokens",""],["balance",""],["transfer_from_tokens",""],["transfer_tokens",""]]};

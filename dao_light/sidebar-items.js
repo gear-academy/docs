@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["init",""],["meta_state",""]],"mod":[["ft_messages",""],["io",""],["state",""]],"struct":[["Member",""],["Proposal",""]]};

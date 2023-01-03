@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["GOCAction","Sends a contract info about what it should do."],["GOCEvent","A result of processed [`GOCAction`]."]],"struct":[["GOCInit","Initializes the Game of chance contract."],["GOCState","The current game round state."]]};

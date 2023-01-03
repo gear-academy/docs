@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["PairAction",""],["PairEvent",""],["PairStateQuery",""],["PairStateReply",""]],"struct":[["InitPair","Initializes a pair."]],"type":[["FungibleId",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["FactoryAction",""],["FactoryEvent",""],["FactoryStateQuery",""],["FactoryStateReply",""]],"struct":[["InitFactory","Initializes a factory."]],"type":[["FungibleId",""]]};

@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"multitoken":[["impl <a class=\"trait\" href=\"gear_lib/multitoken/state/trait.StateKeeper.html\" title=\"trait gear_lib::multitoken::state::StateKeeper\">StateKeeper</a> for <a class=\"struct\" href=\"multitoken/struct.SimpleMTK.html\" title=\"struct multitoken::SimpleMTK\">SimpleMTK</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

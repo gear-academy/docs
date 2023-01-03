@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["approve_tokens",""],["get_fee_to","Gets fee_to from a factory contract. `factory_address` - MUST be a non-zero address Arguments:"],["transfer_tokens","Transfers token from the contract `token_address` - MUST be a non-zero address `from` - MUST be a non-zero address `token_amount` - MUST be a non-zero number Arguments:"]]};

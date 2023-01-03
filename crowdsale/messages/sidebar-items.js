@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["transfer_tokens","Transfers `amount` tokens from `sender` account to `recipient` account. Arguments:"]]};

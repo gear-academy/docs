@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["BASE_PERCENT",""]],"mod":[["ft_messages",""],["io",""],["state",""],["utils",""]],"struct":[["Member",""],["Proposal",""]]};

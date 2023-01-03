@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["declare_derive_storage_trait","This `macro_rule` generates a procedural derive macro for storage trait."],["declare_impl_trait",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["MyMTKAction",""]],"struct":[["BurnToNFT","Transform to NFT piece of data."],["InitMTK","Initializes a Multitoken."]]};

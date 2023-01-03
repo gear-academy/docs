@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Action",""],["FTLogicAction",""],["FTLogicEvent",""],["FTLogicState",""],["FTLogicStateReply",""]],"struct":[["InitFTLogic",""]]};
